@@ -199,7 +199,3 @@ This tool is for educational and personal use. Please respect:
 2. Create a feature branch
 3. Add tests for new functionality
 4. Submit a pull request
-
-## License
-
-MIT License - see LICENSE file for details.
